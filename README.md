@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full-Stack Developer from Lebanon</h3>
 
 <p align="center">
-  <img src="https://github.com/DaniJounblat1/Back-end-on-Android/assets/166136488/d925917c-56d9-4112-8062-c8e38a7e4a92" alt="Banner Image" />
+  <img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Banner Image" />
 </p>
 
 <p align="center">
@@ -44,15 +44,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
 </p>
-
-## Tags
-- #FullStackDeveloper
-- #WebDevelopment
-- #PHP
-- #JavaScript
-- #Java
-- #MySQL
-- #CSS
-- #HTML
-- #OpenSource
-- #DeveloperCommunity
